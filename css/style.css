@@ -8,7 +8,7 @@ body {
   font-family: Georgia, serif;
   line-height: 1.6;
   color: #222;
-  background: #e5f0dd;
+  background: #dbd8c1;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,7 @@ nav ul {
 }
 
 nav a {
-  color: #e5f0dd;
+  color: #dbd8c1;
   text-decoration: none;
   font-family: 'Arial', sans-serif;
   font-size: 0.95rem;
@@ -37,7 +37,7 @@ nav a {
 
 nav a:hover,
 nav a[aria-current="page"] {
-  color: #7eb8f7;
+  color: #faf0a5;
 }
 
 main {
